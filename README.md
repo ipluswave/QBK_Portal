@@ -1,12 +1,6 @@
 MusicStore (Sample ASP.NET Core application)
 ============================================
 
-AppVeyor: [![AppVeyor](https://ci.appveyor.com/api/projects/status/ja8a7j6jscj7k3xa/branch/dev?svg=true)](https://ci.appveyor.com/project/aspnetci/MusicStore/branch/dev)
-
-Travis:   [![Travis](https://travis-ci.org/aspnet/MusicStore.svg?branch=dev)](https://travis-ci.org/aspnet/MusicStore)
-
-This project is part of ASP.NET Core. You can find samples, documentation and getting started instructions for ASP.NET Core at the [Home](https://github.com/aspnet/home) repo.
-
 ## Run the application:
 * If you have Visual Studio 2017
 	1. Open MusicStore.sln in Visual Studio 2017 and run the individual applications on `IIS Express`.
